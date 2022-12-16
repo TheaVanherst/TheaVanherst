@@ -39,13 +39,13 @@ Although my website has already been written and uploaded once before and is cur
 It's a learning process, and it'll be a while before I get it upto scratch and comfortable with posting it here.
 
 ## Alternate Media Projects:
-- Vahn character development Via. character sheet.
-- Steam Workshop item sprite clean-up.
-- Hardware updates / adjustments.
-
 <picture>
     <img alt="Vansche.me" src="./static/Vanshe.me%20Demo.jpg">
 </picture>
+
+- Vahn character development Via. character sheet.
+- Steam Workshop item sprite clean-up.
+- Hardware updates / adjustments.
 
 ### 📞 Other "Github" Projects
 - Designed and drew the character in my profile picture.
