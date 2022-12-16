@@ -4,7 +4,7 @@
   </picture>
 </p>
 
-# Thea Vanherst 
+# Thea Vanherst
 
  **[She / Her]** Multimedia designer, artist & dev.<br>
 Graduate in information technology / digital media design & art.
