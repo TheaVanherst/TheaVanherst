@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-   <img alt="Vanh Logo" src="./halloweenbanner5.png">
+   <img alt="Vanh Logo" src="./resources/halloBanner.png">
   </picture>
 </p>
 
@@ -38,7 +38,7 @@ It's a learning process, and it'll be a while before I get it upto scratch and c
 
 ### 📞 Other "Github" Projects
 <picture>
-    <img alt="Vansche.me" src="./Vanshe.me%20Demo.png">
+    <img alt="Vansche.me" src="./static/Vanshe.me%20Demo.png">
 </picture>
 
 - Designed and drew the character in my profile picture.
