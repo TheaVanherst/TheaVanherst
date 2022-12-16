@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-   <img alt="Vanh Logo" src="https://github.com/TheaVanherst/TheaVanherst/blob/main/halloweenbanner5.png">
+   <img alt="Vanh Logo" src="./halloweenbanner5.png">
   </picture>
 </p>
 
@@ -37,7 +37,9 @@ It's a learning process, and it'll be a while before I get it upto scratch and c
 - Hardware updates / adjustments.
 
 ### 📞 Other "Github" Projects
-<picture><img alt="Vansche.me" src="https://cdn.discordapp.com/attachments/630047188520665121/1053179077223264347/image.png"></picture>
+<picture>
+    <img alt="Vansche.me" src="./Vanshe.me%20Demo.png">
+</picture>
 
 - Designed and drew the character in my profile picture.
 - Commissioned to draw @kiosion OC and current profile picture.
