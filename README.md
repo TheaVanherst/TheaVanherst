@@ -43,11 +43,11 @@ It's a learning process, and it'll be a while before I get it upto scratch and c
 - Steam Workshop item sprite clean-up.
 - Hardware updates / adjustments.
 
-### 📞 Other "Github" Projects
 <picture>
     <img alt="Vansche.me" src="./static/Vanshe.me%20Demo.jpg">
 </picture>
 
+### 📞 Other "Github" Projects
 - Designed and drew the character in my profile picture.
 - Commissioned to draw @kiosion OC and current profile picture.
 
