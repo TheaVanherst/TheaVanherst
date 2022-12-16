@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-   <img alt="Vanh Logo" src="brandRes/halloBanner.png">
+   <img alt="Vanh Logo" src="brandRes/halloBanner.jpg">
   </picture>
 </p>
 
@@ -18,12 +18,18 @@ I don't tend to use git, and I have tons of other ongoing projects in other medi
 
 ## Current Projects:
 ### 💀 Crypt of the Necrospriter
+<picture>
+    <img alt="Vansche.me" src="./static/Necrospriter%20Demo.jpg">
+</picture>
 Designed for Crypt of the Necrodancer to recreate the game-engine look and design to accurately represent sprites as presented in game - open source and written and designed in javascript, designed for the browser for maximum accessability and compatibility with as little as possible backend.<br>
 I also created my own resource pack to test the software during development, which you can view on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2893560157).
 
 The project is currently on hold to work on other projects such as **Vanh.art**.<br>
 
 ### 🦈 Vanh.art
+<picture>
+    <img alt="Vansche.me" src="./static/Vanh.art%20Demo.jpg">
+</picture>
 Vanh.art is an experimental blog written in Svelte, Javascript. 
 The site is focused on developing a unique mean to present all of my current and past projects, alongwith pages to highlight alternate medias such as Art, Design, Modeling and Programming.
 
@@ -38,7 +44,7 @@ It's a learning process, and it'll be a while before I get it upto scratch and c
 
 ### 📞 Other "Github" Projects
 <picture>
-    <img alt="Vansche.me" src="./static/Vanshe.me%20Demo.png">
+    <img alt="Vansche.me" src="./static/Vanshe.me%20Demo.jpg">
 </picture>
 
 - Designed and drew the character in my profile picture.
