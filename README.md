@@ -13,7 +13,6 @@ I don't tend to use git, and I have tons of other ongoing projects in other medi
 
 - 💻 I’m currently working as a Digital Media Manager / Designer.
 - 🖍 Currently using Vanh.art as a testing landscape for a future work project.
-- 🧮 I’m also "learning" Svelete. [I'm really new]
 - ✉ Feel free to contact me with Discord; TheaVanherst#1953
 
 ## Current Projects:
