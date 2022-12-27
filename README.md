@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-   <img alt="Vanh Logo" src="brandRes/halloBanner.jpg">
+   <img alt="Vanh Logo" src="brandRes/StarBanner.jpg">
   </picture>
 </p>
 
