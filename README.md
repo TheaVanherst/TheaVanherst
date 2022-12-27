@@ -20,7 +20,7 @@ I don't tend to use git, and I have tons of other ongoing projects in other medi
     <img alt="Vansche.me" src="./static/Necrospriter%20Demo.jpg">
 </picture>
 
-### 💀 Crypt of the Necrospriter
+### [💀 Crypt of the Necrospriter][3]
 Designed for Crypt of the Necrodancer to recreate the game-engine look and design to accurately represent sprites as presented in game - open source and written and designed in javascript, designed for the browser for maximum accessability and compatibility with as little as possible backend.<br>
 
 I also created my own resource pack to test the software during development, which you can view on the [Steam Workshop][1].
@@ -29,7 +29,7 @@ I also created my own resource pack to test the software during development, whi
     <img alt="Vansche.me" src="./static/Vanh.art%20Demo.jpg">
 </picture>
 
-### 🦈 Vanh.art
+### [🦈 Vanh.art][2]
 Vanh.art is an experimental blog written in Svelte, Javascript.
 The site is focused on developing a unique mean to present all of my current and past projects, alongwith pages to highlight alternate medias such as Art, Design, Modeling and Programming.
 
@@ -37,7 +37,7 @@ Although my website has already been written and uploaded once before and is cur
 
 It's a learning process, and it'll be a while before I get it upto scratch and comfortable with posting it here.
 
-## Alternate Media Projects:
+## [Alternate Media Projects][4]:
 <picture>
     <img alt="Vansche.me" src="./static/Vanshe.me%20Demo.jpg">
 </picture>
@@ -51,3 +51,6 @@ It's a learning process, and it'll be a while before I get it upto scratch and c
 - Commissioned to draw @kiosion OC and current profile picture.
 
 [1]: https://steamcommunity.com/sharedfiles/filedetails/?id=2893560157
+[2]: https://github.com/TheaVanherst/VanH.svelte
+[3]: https://github.com/TheaVanherst/Crypt-Of-The-NecroSpriter
+[4]: https://twitter.com/TheaVanherst
