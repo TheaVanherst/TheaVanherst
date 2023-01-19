@@ -48,7 +48,6 @@ It's a learning process, and it'll be a while before I get it upto scratch and c
 
 ### 📞 Other "Github" Projects
 - Designed and drew the character in my profile picture.
-- Commissioned to draw @kiosion OC and current profile picture.
 
 [1]: https://steamcommunity.com/sharedfiles/filedetails/?id=2893560157
 [2]: https://github.com/TheaVanherst/VanH.svelte
