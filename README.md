@@ -11,9 +11,8 @@ Graduate in information technology / digital media design & art.
 
 I don't tend to use git, and I have tons of other ongoing projects in other media spheres. I'm just here to post my learning experience.
 
-- 💻 I’m currently working as a Digital Media Manager / Designer.
-- 🖍 Currently using Vanh.art as a testing landscape for a future work project.
-- ✉ Feel free to contact me with Discord; TheaVanherst#1953
+- 💻 I’m currently working as a freelance artist.
+- 🖍 Currently developing Vanh.art as a testing landscape for a future work project.
 
 ## Current Projects:
 <picture>
